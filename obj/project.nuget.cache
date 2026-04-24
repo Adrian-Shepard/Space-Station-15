@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3bHs6TFjL/8=",
+  "success": true,
+  "projectFilePath": "D:\\SpaceStation15\\SS15\\SS15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
