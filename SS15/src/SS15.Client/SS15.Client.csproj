@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SS15.Rendering.OpenGL\SS15.Rendering.OpenGL.csproj" />
+    <ProjectReference Include="..\SS15.Common\SS15.Common.csproj" />
+    <ProjectReference Include="..\SS15.Game\SS15.Game.csproj" />
+  </ItemGroup>
+  <!-- Копирование ассетов в выходную папку -->
+  <ItemGroup>
+    <Content Include="..\Assets\**\*">
+      <Link>Assets\%(RecursiveDir)%(Filename)%(Extension)</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>

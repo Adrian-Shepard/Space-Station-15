@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SS15.Common/SS15.Common.csproj" />
+    <Project Path="src/SS15.Game/SS15.Game.csproj" />
+    <Project Path="src/SS15.Rendering.OpenGL/SS15.Rendering.OpenGL.csproj" />
+  </Folder>
+</Solution>

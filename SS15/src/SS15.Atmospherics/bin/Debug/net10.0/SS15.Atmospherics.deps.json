@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SS15.Atmospherics/1.0.0": {
+        "dependencies": {
+          "SS15.Common": "1.0.0"
+        },
+        "runtime": {
+          "SS15.Atmospherics.dll": {}
+        }
+      },
+      "SS15.Common/1.0.0": {
+        "runtime": {
+          "SS15.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SS15.Atmospherics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SS15.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

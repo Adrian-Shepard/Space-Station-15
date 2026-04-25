@@ -1,0 +1,17 @@
+D:\SpaceStation15\SS15\src\SS15.Game\bin\Debug\net10.0\SS15.Game.deps.json
+D:\SpaceStation15\SS15\src\SS15.Game\bin\Debug\net10.0\SS15.Game.dll
+D:\SpaceStation15\SS15\src\SS15.Game\bin\Debug\net10.0\SS15.Game.pdb
+D:\SpaceStation15\SS15\src\SS15.Game\bin\Debug\net10.0\SS15.Common.dll
+D:\SpaceStation15\SS15\src\SS15.Game\bin\Debug\net10.0\SS15.Rendering.OpenGL.dll
+D:\SpaceStation15\SS15\src\SS15.Game\bin\Debug\net10.0\SS15.Common.pdb
+D:\SpaceStation15\SS15\src\SS15.Game\bin\Debug\net10.0\SS15.Rendering.OpenGL.pdb
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\SS15.Game.csproj.AssemblyReference.cache
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\SS15.Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\SS15.Game.AssemblyInfoInputs.cache
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\SS15.Game.AssemblyInfo.cs
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\SS15.Game.csproj.CoreCompileInputs.cache
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\SS15.Game.csproj.Up2Date
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\SS15.Game.dll
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\refint\SS15.Game.dll
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\SS15.Game.pdb
+D:\SpaceStation15\SS15\src\SS15.Game\obj\Debug\net10.0\ref\SS15.Game.dll

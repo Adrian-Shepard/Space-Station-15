@@ -1,0 +1,15 @@
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\bin\Release\net10.0\SS15.Rendering.OpenGL.deps.json
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\bin\Release\net10.0\SS15.Rendering.OpenGL.dll
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\bin\Release\net10.0\SS15.Rendering.OpenGL.pdb
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\bin\Release\net10.0\SS15.Common.dll
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\bin\Release\net10.0\SS15.Common.pdb
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\SS15.Rendering.OpenGL.csproj.AssemblyReference.cache
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\SS15.Rendering.OpenGL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\SS15.Rendering.OpenGL.AssemblyInfoInputs.cache
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\SS15.Rendering.OpenGL.AssemblyInfo.cs
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\SS15.Rendering.OpenGL.csproj.CoreCompileInputs.cache
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\SS15.Ren.B363FFF1.Up2Date
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\SS15.Rendering.OpenGL.dll
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\refint\SS15.Rendering.OpenGL.dll
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\SS15.Rendering.OpenGL.pdb
+D:\SpaceStation15\SS15\src\SS15.Rendering.OpenGL\obj\Release\net10.0\ref\SS15.Rendering.OpenGL.dll
